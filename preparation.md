@@ -24,6 +24,7 @@
 
 # Algorithm
 
+-- table seems to be good enough
 -- tree /
 -- graph
 -- investigate how to make tree structure/ graph
@@ -33,3 +34,6 @@
 -- user can set alarm
 -- pop up <-- start game
 -- after food activity
+-- 睇過嘅人統計
+-- log in / log out
+-- set my favorite restaurant
